@@ -15,3 +15,7 @@ git checkout test   //to switch to test branch
 git add .
 
 git commit -m "messed everything"
+
+git log
+
+git revery "id"
