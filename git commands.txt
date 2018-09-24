@@ -1,21 +1,17 @@
 git status
-r
-git addrwqe text.txt
-qwe
-git cowermmit -m "initial commit"  //to commit the changes
 
-git statfwr
-git branasdfasch test //to create branch naming test
+git add text.txt
 
-git bsdfreanch  //to see number of branches
+git commit -m "initial commit"  //to commit the changes
+
+git status
+
+git branch test //to create branch naming test
+
+git branch  //to see number of branches
 
 git checkout test   //to switch to test branch
-fa
-git add .ew
-git commitw -m "messed everfything"
-dfasd
-git merge test  // takes the content from test branch to master branch
-sdaf
-git branchsadtest -d  //delete branch test
 
-git branch tdasdfsffsadest -D  //delete forcefully in case of some changes are nt comittedsadf
+git add .
+
+git commit -m "messed everything"
