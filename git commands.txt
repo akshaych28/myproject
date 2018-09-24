@@ -19,3 +19,5 @@ git commit -m "messed everything"
 git log
 
 git revery "id"
+
+git remote add origin https://github.com/akshaych28/myproject.git
