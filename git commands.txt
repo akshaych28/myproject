@@ -21,3 +21,5 @@ git log
 git revery "id"
 
 git remote add origin https://github.com/akshaych28/myproject.git
+
+git push -u origin master
