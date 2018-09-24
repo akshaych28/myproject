@@ -1,3 +1,17 @@
 git status
 
 git add text.txt
+
+git commit -m "initial commit"  //to commit the changes
+
+git status
+
+git branch test //to create branch naming test
+
+git branch  //to see number of branches
+
+git checkout test   //to switch to test branch
+
+git add .
+
+git commit -m "messed everything"
